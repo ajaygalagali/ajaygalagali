@@ -20,6 +20,11 @@
 
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygalagali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
 <img align="left" alt="ajaygalagali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ajaygalagali&show_icons=true&hide_border=true" />
 
 
