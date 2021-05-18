@@ -4,8 +4,6 @@
 💻 Learning Android app development<br>
 ⚒ Working with `Kotlin`, `MVVM Architecture`, `Firebase`, `Retrofit`.
 
----
-
 ##### ⚙ Languages and Tools:
 
 `.c` `.py` <br/>
@@ -13,7 +11,6 @@
 `.html` `.css` `.php` `.sql` <br/>
 `.ai` `.xd` <br/>
 
----
 <!---
 ##### 📈 Github Stats
 
@@ -29,8 +26,6 @@
 
 [`↗ Visit Playstore`][playstore]<br/>
 [`↗ Hackathons`][devfolio]
-
----
 
 🎨 Check my arts - [`↗ Be`][behance] [`↗ Ig`][instagram] <br/>
 ✉ Connect with me - [`↗ Li`][linkedin] [`↗ Tw`][twitter] [`↗ www`][website] [`↗ @`][mail] 
