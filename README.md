@@ -14,34 +14,26 @@
 `.ai` `.xd` <br/>
 
 ---
-
+<!---
 ##### 📈 Github Stats
 
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaygalagali&hide_title=true&count_private=true&theme=onedark&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
+-->
+
 ##### ✅ Check my apps
-* [Rokka][rokka] 💸 
-* [YourChannel][yourchannel] 🎬
-* [App Manager Shortcut][appManagerShortcut] ↗
+
+💸 [Rokka][rokka] | 🎬 [YourChannel][yourchannel] | ↗ [App Manager Shortcut][appManagerShortcut] 
 
 [`↗ Visit Playstore`][playstore]<br/>
 [`↗ Hackathons`][devfolio]
 
 ---
 
-##### 🎨 Check my arts
-
-[`↗ Be`][behance] [`↗ Ig`][instagram]
-
----
-##### ✉ Connect with me
-[`↗ Li`][linkedin] [`↗ Tw`][twitter] [`↗ www`][website] [`↗ @`][mail] 
-
----
-
-> Scroll down 🔽 to see my projects
+🎨 Check my arts - [`↗ Be`][behance] [`↗ Ig`][instagram] <br/>
+✉ Connect with me - [`↗ Li`][linkedin] [`↗ Tw`][twitter] [`↗ www`][website] [`↗ @`][mail] 
 
 
 [linkedin]:https://www.linkedin.com/in/ajaygalagali/
