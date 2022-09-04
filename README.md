@@ -1,8 +1,6 @@
 👋 Hi there, I am [Ajay Galagali][linktr]<br>
-🎓 Pre-final year undergrad at [DSCE][college]<br>
-🤩 Interested in mobile `app development`, `web development`, and `graphic design`.<br>
-💻 Learning Android app development<br>
-⚒ Working with `Kotlin`, `MVVM Architecture`, `Firebase`, `Retrofit`.
+🎓 Graduated from [DSCE][college] (BE ISE)<br>
+🤩 Interested in mobile `app development`, and `graphic design`.<br>
 
 ##### ⚙ Languages and Tools:
 
